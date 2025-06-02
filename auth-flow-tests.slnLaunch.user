@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "All",
+    "Projects": [
+      {
+        "Path": "server\\Server.csproj",
+        "Action": "Start",
+        "DebugTarget": "https"
+      },
+      {
+        "Path": "non-interative-client-ClientCredentials\\Client.NonInteractive.csproj",
+        "Action": "Start",
+        "DebugTarget": "Client.NonInteractive"
+      },
+      {
+        "Path": "interactive-client\\Client.Interactive.csproj",
+        "Action": "Start",
+        "DebugTarget": "Client.Interactive"
+      }
+    ]
+  }
+]

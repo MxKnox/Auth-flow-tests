@@ -1,0 +1,427 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tom\\source\\repos\\auth-flow-tests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAB43F74-1BBC-43D0-B3CE-95EDB3CE1C53}|interactive-client\\Client.Interactive.csproj|c:\\users\\tom\\source\\repos\\auth-flow-tests\\interactive-client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAB43F74-1BBC-43D0-B3CE-95EDB3CE1C53}|interactive-client\\Client.Interactive.csproj|solutionrelative:interactive-client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E014E902-72A3-43A5-A60F-44F2B4375794}|Auth.Client.Oidc\\Auth.Client.Oidc.csproj|c:\\users\\tom\\source\\repos\\auth-flow-tests\\auth.client.oidc\\interactiveclientregistrationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E014E902-72A3-43A5-A60F-44F2B4375794}|Auth.Client.Oidc\\Auth.Client.Oidc.csproj|solutionrelative:auth.client.oidc\\interactiveclientregistrationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EB6AAB-09FC-4665-8775-1EDDE5BB6533}|Auth.Client.Otp\\Auth.Client.Otp.csproj|c:\\users\\tom\\source\\repos\\auth-flow-tests\\auth.client.otp\\otpclienthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02EB6AAB-09FC-4665-8775-1EDDE5BB6533}|Auth.Client.Otp\\Auth.Client.Otp.csproj|solutionrelative:auth.client.otp\\otpclienthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F870742-6C63-41A3-AC63-9A63AF9BCB7D}|Auth.Server\\Auth.Server.csproj|c:\\users\\tom\\source\\repos\\auth-flow-tests\\auth.server\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F870742-6C63-41A3-AC63-9A63AF9BCB7D}|Auth.Server\\Auth.Server.csproj|solutionrelative:auth.server\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF66FB23-D38D-47CE-BC16-A450F88D6065}|shared\\Auth.Common.csproj|c:\\users\\tom\\source\\repos\\auth-flow-tests\\shared\\certificates\\clientcertificatehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF66FB23-D38D-47CE-BC16-A450F88D6065}|shared\\Auth.Common.csproj|solutionrelative:shared\\certificates\\clientcertificatehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD9F0B27-21A8-43F5-A8C5-E83646CD2581}|server\\Server.csproj|c:\\users\\tom\\source\\repos\\auth-flow-tests\\server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AD9F0B27-21A8-43F5-A8C5-E83646CD2581}|server\\Server.csproj|solutionrelative:server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD9F0B27-21A8-43F5-A8C5-E83646CD2581}|server\\Server.csproj|c:\\users\\tom\\source\\repos\\auth-flow-tests\\server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AD9F0B27-21A8-43F5-A8C5-E83646CD2581}|server\\Server.csproj|solutionrelative:server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD9F0B27-21A8-43F5-A8C5-E83646CD2581}|server\\Server.csproj|c:\\users\\tom\\source\\repos\\auth-flow-tests\\server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AD9F0B27-21A8-43F5-A8C5-E83646CD2581}|server\\Server.csproj|solutionrelative:server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD9F0B27-21A8-43F5-A8C5-E83646CD2581}|server\\Server.csproj|c:\\users\\tom\\source\\repos\\auth-flow-tests\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD9F0B27-21A8-43F5-A8C5-E83646CD2581}|server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD9F0B27-21A8-43F5-A8C5-E83646CD2581}|server\\Server.csproj|c:\\users\\tom\\source\\repos\\auth-flow-tests\\server\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AD9F0B27-21A8-43F5-A8C5-E83646CD2581}|server\\Server.csproj|solutionrelative:server\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F870742-6C63-41A3-AC63-9A63AF9BCB7D}|Auth.Server\\Auth.Server.csproj|c:\\users\\tom\\source\\repos\\auth-flow-tests\\auth.server\\mtls\\servercerthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F870742-6C63-41A3-AC63-9A63AF9BCB7D}|Auth.Server\\Auth.Server.csproj|solutionrelative:auth.server\\mtls\\servercerthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A12F801-E67C-4702-9096-81AB7CC674DE}|non-interative-client-ClientCredentials\\Client.NonInteractive.csproj|c:\\users\\tom\\source\\repos\\auth-flow-tests\\non-interative-client-clientcredentials\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A12F801-E67C-4702-9096-81AB7CC674DE}|non-interative-client-ClientCredentials\\Client.NonInteractive.csproj|solutionrelative:non-interative-client-clientcredentials\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E014E902-72A3-43A5-A60F-44F2B4375794}|Auth.Client.Oidc\\Auth.Client.Oidc.csproj|c:\\users\\tom\\source\\repos\\auth-flow-tests\\auth.client.oidc\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E014E902-72A3-43A5-A60F-44F2B4375794}|Auth.Client.Oidc\\Auth.Client.Oidc.csproj|solutionrelative:auth.client.oidc\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF66FB23-D38D-47CE-BC16-A450F88D6065}|shared\\Auth.Common.csproj|c:\\users\\tom\\source\\repos\\auth-flow-tests\\shared\\oidc\\oidcoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF66FB23-D38D-47CE-BC16-A450F88D6065}|shared\\Auth.Common.csproj|solutionrelative:shared\\oidc\\oidcoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF66FB23-D38D-47CE-BC16-A450F88D6065}|shared\\Auth.Common.csproj|c:\\users\\tom\\source\\repos\\auth-flow-tests\\shared\\clientrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF66FB23-D38D-47CE-BC16-A450F88D6065}|shared\\Auth.Common.csproj|solutionrelative:shared\\clientrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F870742-6C63-41A3-AC63-9A63AF9BCB7D}|Auth.Server\\Auth.Server.csproj|c:\\users\\tom\\source\\repos\\auth-flow-tests\\auth.server\\clientregistrationsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F870742-6C63-41A3-AC63-9A63AF9BCB7D}|Auth.Server\\Auth.Server.csproj|solutionrelative:auth.server\\clientregistrationsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A12F801-E67C-4702-9096-81AB7CC674DE}|non-interative-client-ClientCredentials\\Client.NonInteractive.csproj|c:\\users\\tom\\source\\repos\\auth-flow-tests\\non-interative-client-clientcredentials\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0A12F801-E67C-4702-9096-81AB7CC674DE}|non-interative-client-ClientCredentials\\Client.NonInteractive.csproj|solutionrelative:non-interative-client-clientcredentials\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 306,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Server",
+              "DocumentMoniker": "C:\\Users\\tom\\source\\repos\\auth-flow-tests\\server\\Server.csproj",
+              "RelativeDocumentMoniker": "server\\Server.csproj",
+              "ToolTip": "C:\\Users\\tom\\source\\repos\\auth-flow-tests\\server\\Server.csproj",
+              "RelativeToolTip": "server\\Server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-02T21:13:08.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tom\\source\\repos\\auth-flow-tests\\server\\Program.cs",
+              "RelativeDocumentMoniker": "server\\Program.cs",
+              "ToolTip": "C:\\Users\\tom\\source\\repos\\auth-flow-tests\\server\\Program.cs",
+              "RelativeToolTip": "server\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T20:13:10.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InteractiveClientRegistrationHelper.cs",
+              "DocumentMoniker": "C:\\Users\\tom\\source\\repos\\auth-flow-tests\\Auth.Client.Oidc\\InteractiveClientRegistrationHelper.cs",
+              "RelativeDocumentMoniker": "Auth.Client.Oidc\\InteractiveClientRegistrationHelper.cs",
+              "ToolTip": "C:\\Users\\tom\\source\\repos\\auth-flow-tests\\Auth.Client.Oidc\\InteractiveClientRegistrationHelper.cs",
+              "RelativeToolTip": "Auth.Client.Oidc\\InteractiveClientRegistrationHelper.cs",
+              "ViewState": "AgIAAGIBAAAAAAAAAAAvwIEBAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T17:52:12.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OtpClientHelper.cs",
+              "DocumentMoniker": "C:\\Users\\tom\\source\\repos\\auth-flow-tests\\Auth.Client.Otp\\OtpClientHelper.cs",
+              "RelativeDocumentMoniker": "Auth.Client.Otp\\OtpClientHelper.cs",
+              "ToolTip": "C:\\Users\\tom\\source\\repos\\auth-flow-tests\\Auth.Client.Otp\\OtpClientHelper.cs",
+              "RelativeToolTip": "Auth.Client.Otp\\OtpClientHelper.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAEwKMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:02:59.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientCertificateHelper.cs",
+              "DocumentMoniker": "C:\\Users\\tom\\source\\repos\\auth-flow-tests\\shared\\Certificates\\ClientCertificateHelper.cs",
+              "RelativeDocumentMoniker": "shared\\Certificates\\ClientCertificateHelper.cs",
+              "ToolTip": "C:\\Users\\tom\\source\\repos\\auth-flow-tests\\shared\\Certificates\\ClientCertificateHelper.cs",
+              "RelativeToolTip": "shared\\Certificates\\ClientCertificateHelper.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAnwKkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T17:52:13.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tom\\source\\repos\\auth-flow-tests\\interactive-client\\Program.cs",
+              "RelativeDocumentMoniker": "interactive-client\\Program.cs",
+              "ToolTip": "C:\\Users\\tom\\source\\repos\\auth-flow-tests\\interactive-client\\Program.cs",
+              "RelativeToolTip": "interactive-client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T19:59:45.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\tom\\source\\repos\\auth-flow-tests\\Auth.Server\\Extensions.cs",
+              "RelativeDocumentMoniker": "Auth.Server\\Extensions.cs",
+              "ToolTip": "C:\\Users\\tom\\source\\repos\\auth-flow-tests\\Auth.Server\\Extensions.cs",
+              "RelativeToolTip": "Auth.Server\\Extensions.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAArwKcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T21:13:48.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\tom\\source\\repos\\auth-flow-tests\\server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "server\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\tom\\source\\repos\\auth-flow-tests\\server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "server\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-02T21:36:25.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\tom\\source\\repos\\auth-flow-tests\\server\\appsettings.json",
+              "RelativeDocumentMoniker": "server\\appsettings.json",
+              "ToolTip": "C:\\Users\\tom\\source\\repos\\auth-flow-tests\\server\\appsettings.json",
+              "RelativeToolTip": "server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-02T21:36:26.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\tom\\source\\repos\\auth-flow-tests\\server\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "server\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\tom\\source\\repos\\auth-flow-tests\\server\\appsettings.Development.json",
+              "RelativeToolTip": "server\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-02T21:38:21.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ClientRecord.cs",
+              "DocumentMoniker": "C:\\Users\\tom\\source\\repos\\auth-flow-tests\\shared\\ClientRecord.cs",
+              "RelativeDocumentMoniker": "shared\\ClientRecord.cs",
+              "ToolTip": "C:\\Users\\tom\\source\\repos\\auth-flow-tests\\shared\\ClientRecord.cs",
+              "RelativeToolTip": "shared\\ClientRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:21:05.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ServerCertHelper.cs",
+              "DocumentMoniker": "C:\\Users\\tom\\source\\repos\\auth-flow-tests\\Auth.Server\\Mtls\\ServerCertHelper.cs",
+              "RelativeDocumentMoniker": "Auth.Server\\Mtls\\ServerCertHelper.cs",
+              "ToolTip": "C:\\Users\\tom\\source\\repos\\auth-flow-tests\\Auth.Server\\Mtls\\ServerCertHelper.cs",
+              "RelativeToolTip": "Auth.Server\\Mtls\\ServerCertHelper.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAkwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:13:15.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tom\\source\\repos\\auth-flow-tests\\non-interative-client-ClientCredentials\\Program.cs",
+              "RelativeDocumentMoniker": "non-interative-client-ClientCredentials\\Program.cs",
+              "ToolTip": "C:\\Users\\tom\\source\\repos\\auth-flow-tests\\non-interative-client-ClientCredentials\\Program.cs",
+              "RelativeToolTip": "non-interative-client-ClientCredentials\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T18:21:20.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TokenResponse.cs",
+              "DocumentMoniker": "C:\\Users\\tom\\source\\repos\\auth-flow-tests\\Auth.Client.Oidc\\TokenResponse.cs",
+              "RelativeDocumentMoniker": "Auth.Client.Oidc\\TokenResponse.cs",
+              "ToolTip": "C:\\Users\\tom\\source\\repos\\auth-flow-tests\\Auth.Client.Oidc\\TokenResponse.cs",
+              "RelativeToolTip": "Auth.Client.Oidc\\TokenResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T20:46:39.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OidcOptions.cs",
+              "DocumentMoniker": "C:\\Users\\tom\\source\\repos\\auth-flow-tests\\shared\\Oidc\\OidcOptions.cs",
+              "RelativeDocumentMoniker": "shared\\Oidc\\OidcOptions.cs",
+              "ToolTip": "C:\\Users\\tom\\source\\repos\\auth-flow-tests\\shared\\Oidc\\OidcOptions.cs",
+              "RelativeToolTip": "shared\\Oidc\\OidcOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T20:11:44.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ClientRegistrationsService.cs",
+              "DocumentMoniker": "C:\\Users\\tom\\source\\repos\\auth-flow-tests\\Auth.Server\\ClientRegistrationsService.cs",
+              "RelativeDocumentMoniker": "Auth.Server\\ClientRegistrationsService.cs",
+              "ToolTip": "C:\\Users\\tom\\source\\repos\\auth-flow-tests\\Auth.Server\\ClientRegistrationsService.cs",
+              "RelativeToolTip": "Auth.Server\\ClientRegistrationsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T18:38:22.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\tom\\source\\repos\\auth-flow-tests\\non-interative-client-ClientCredentials\\appsettings.json",
+              "RelativeDocumentMoniker": "non-interative-client-ClientCredentials\\appsettings.json",
+              "ToolTip": "C:\\Users\\tom\\source\\repos\\auth-flow-tests\\non-interative-client-ClientCredentials\\appsettings.json",
+              "RelativeToolTip": "non-interative-client-ClientCredentials\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-02T18:47:36.429Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 810,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 515,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1039,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
